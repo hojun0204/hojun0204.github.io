@@ -7,11 +7,11 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/JIl-w1SEZ/",
     "classDetails": [
         {
-            "name": "축구",
-            "title": "축구상",
-            "explain": "축구를 잘할 것 같이 생긴 당신!",
-            "celeb": "ex) 손흥민, 호날두, 메시",
-            "color": "rgba(72, 238, 135, 1)"
+            "name": "농구",
+            "title": "농구상",
+            "explain": "농구를 잘할 것 같이 생긴 당신!",
+            "celeb": "ex) 마이클 조던, 코비 브라이언트, 르브론 제임스",
+            "color": "rgba(253, 180, 57, 1)"
         },
         {
             "name": "야구",
@@ -21,11 +21,11 @@
             "color": "rgba(104, 62, 249, 1)"
         },
         {
-            "name": "농구",
-            "title": "농구상",
-            "explain": "농구를 잘할 것 같이 생긴 당신!",
-            "celeb": "ex) 마이클 조던, 코비 브라이언트, 르브론 제임스",
-            "color": "rgba(253, 180, 57, 1)"
+            "name": "축구",
+            "title": "축구상",
+            "explain": "축구를 잘할 것 같이 생긴 당신!",
+            "celeb": "ex) 손흥민, 호날두, 메시",
+            "color": "rgba(72, 238, 135, 1)"
         }
     ]
 }
